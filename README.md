@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Olá, meu nome é Carlos Eduardo 
 
-<div style="display: inline_block">a
+<div style="display: inline_block">
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Poderá entrar em contato comigo pelo email, cadusmeneses@gmail.com
