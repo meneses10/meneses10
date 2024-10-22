@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div style="display: inline" align="center">
-  <a href="https://github.com/Guilherme-dsr/"></a>
+  <a href="https://github.com/meneses10/"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-dsr&layout=compact&langs_count=5&theme=dark"/>
 </div> 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Minha redes
-<div align= "center"  > 
+<div align= "center" display = "inline"  > 
   <a href="https://github.com/meneses10" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
   <a href="mailto:cadusmeneses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
