@@ -43,9 +43,6 @@ Here are some ideas to get you started:
   <br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <br>
- <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 
   
   
