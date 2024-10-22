@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
-- 📫 Poderá entrar em contato comigo pelo email, cadusmeneses@gmail.com
+- 📫 Poderá entrar em contato comigo pelo email: cadusmeneses@gmail.com
 </div>
 <br>
 <div style="display: inline" align="center">
