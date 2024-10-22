@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ## Olá, meu nome é Carlos Eduardo 
 
 <div style="display: inline_block">a
-- 👨🏻‍🎓 Graduado em análise e desenvolvimento de sistemas <br>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
-- 📫 Poderá entrar em contato comigo pelo email, guilhermesilva.dsr@gmail.com
+- 📫 Poderá entrar em contato comigo pelo email, cadusmeneses@gmail.com
 </div>
 <br>
+<h1>OLá</h1>
 <div style="display: inline" align="center">
   <a href="https://github.com/Guilherme-dsr/"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
