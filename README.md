@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <br>
 <div style="display: inline" align="center">
   <a href="https://github.com/meneses10/"></a>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dsr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-dsr&layout=compact&langs_count=5&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Meneses10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meneses10&layout=compact&langs_count=5&theme=dark"/>
 </div> 
 
 ## Tecnologias que eu uso no meu dia
