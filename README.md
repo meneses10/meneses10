@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, sou Guilherme Rodrigues
+## Olá, meu nome é Carlos Eduardo 
 
 <div style="display: inline_block">a
 - 👨🏻‍🎓 Graduado em análise e desenvolvimento de sistemas <br>
