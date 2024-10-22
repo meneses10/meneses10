@@ -38,10 +38,13 @@ Here are some ideas to get you started:
 </div>
 
 ## Minha redes
-<div align="center" > 
+<div style="display: inline_block" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img align="center" alt="html5" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+
+  
   
 </div>
-i
+
