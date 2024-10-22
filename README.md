@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ## Minha redes
 <div align="center" > 
   <a href="https://github.com/meneses10" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
   <a href="mailto:cadusmeneses@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/__menesesw?igsh=MXdramMydnFwczFsbw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><br>
