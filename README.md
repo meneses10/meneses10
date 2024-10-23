@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## Olá, meu nome é Carlos Eduardo 
 
 <div style="display: inline_block">
+  <h1>- 👨‍💻 Sou um aluno que está no terceiro ano do ensino médio integral e profissionalizante que está cursando informática
+</h1>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Manter contato: cadusmeneses@gmail.com
