@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, meu nome é Carlos Eduardo 
+## Olá, meu nome é Carlos Eduardo!!!
 
 <div style="display: inline_block">
-  <h1>- Sobre mim</h1> 👨‍💻 Sou um aluno que está no terceiro ano do ensino médio integral e profissionalizante que está cursando informática
+  <h1>- Sobre mim</h1> 👨‍💻 Sou um aluno que está no terceiro ano do ensino médio integral e profissionalizante que está cursando informática <br>
 <h1>Minhas informações</h1>
 - ⚡ Técnico em Informática <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
