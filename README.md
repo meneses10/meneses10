@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## Olá, meu nome é Carlos Eduardo!!!
 
 <div style="display: inline_block">
-  <h1>- Sobre mim</h1> 👨‍💻 Sou um aluno que está cursando Engenharia de Telecomunicações no Instituo Federal do Ceará. <br>
+  <h1>- Sobre mim</h1> 👨‍💻 Sou um aluno que está cursando Engenharia de Telecomunicações no Instituo Federal do Ceará e que atualmente estou fazendo parte o Academy de desenvolvimento IOS da Apple. <br>
 <h1>Minhas informações</h1>
 - ⚡ Técnico em Informática <br>
-  - Júnior Learner  🍏
+- Júnior Learner 🍏 <br>
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Manter contato: cadusmeneses@gmail.com
 </div>
