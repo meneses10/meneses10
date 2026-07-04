@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <h1>- Sobre mim</h1> 👨‍💻 Sou um aluno que está cursando Engenharia de Telecomunicações no Instituo Federal do Ceará. <br>
 <h1>Minhas informações</h1>
 - ⚡ Técnico em Informática <br>
+  - Júnior Learner  🍏
 - 👨‍💻 Todos meus projetos estão disponíveis na guia repositórios <br>
 - 📫 Manter contato: cadusmeneses@gmail.com
 </div>
